@@ -1,7 +1,7 @@
-# 🧠 Order Placement Prediction Project
-This project is designed to predict order placement based on user behavior data. The goal is to develop a machine learning model that can accurately forecast whether a user will place an order or not. The project utilizes a range of techniques, including feature engineering, model selection, and hyperparameter tuning, to achieve this objective. 📊
+# Order Placement Prediction Project
+This project is designed to predict order placement based on user behavior data. The goal is to develop a machine learning model that can accurately forecast whether a user will place an order or not. The project utilizes a range of techniques, including feature engineering, model selection, and hyperparameter tuning, to achieve this objective.
 
-## 🚀 Features
+## Features
 The key features of this project include:
 * **Data Preprocessing**: The project involves loading and preprocessing user behavior data, including handling missing values and converting data types.
 * **Feature Engineering**: The project includes creating new features from existing ones, such as calculating session duration, active time, and idle time.
@@ -9,7 +9,7 @@ The key features of this project include:
 * **Hyperparameter Tuning**: The project uses Optuna to tune the hyperparameters of the models and improve their performance.
 * **Model Evaluation**: The project evaluates the performance of the models using metrics such as confusion matrix, classification report, and ROC-AUC score.
 
-## 🛠️ Tech Stack
+## Tech Stack
 The project uses the following technologies:
 * **Python**: The primary programming language used for the project.
 * **NumPy**: A library for numerical computing.
@@ -22,20 +22,20 @@ The project uses the following technologies:
 * **CatBoost**: A library for gradient boosting.
 * **Optuna**: A library for hyperparameter tuning.
 
-## 📦 Installation
+## Installation
 To install the required dependencies, run the following command:
 ```bash
 pip install -r requirements.txt
 ```
 This will install all the necessary libraries and packages required for the project.
 
-## 💻 Usage
+## Usage
 To use the project, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies using the command above.
 3. Run the `submission_code.ipynb` script to train and evaluate the model.
 
-## 📂 Project Structure
+## Project Structure
 ```markdown
 .
 ├── data
@@ -48,8 +48,3 @@ To use the project, follow these steps:
 ├── requirements.txt
 └── README.md
 ```
-
-
-## 💖 Thanks Message
-We would like to thank all the contributors to the project for their hard work and dedication. This project is made possible by the support of our community.
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/)
